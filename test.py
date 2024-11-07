@@ -1,1 +1,1 @@
-print("MIIGAiK!")
+print("World!")
